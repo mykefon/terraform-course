@@ -31,7 +31,7 @@ demo-16 | Autoscaling with ELB (Elastic Load Balancer)
 demo-17 | Elastic Beanstalk PHP 7 stack with RDS
 demo-18 | Interpolations, VPC module
 demo-18b | Project structure, best practices
-packer-demo | Build AMIs with Packer
+packer-demo | Build AMIs with hashicorp Packer
 jenkins-packer-demo | Demo with jenkins and Packer
 docker-demo-1 | Using ECR - The EC2 Container Registry
 docker-demo-2 | Using ECS - The EC2 Container Service
